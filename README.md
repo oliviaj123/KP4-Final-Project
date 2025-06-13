@@ -21,11 +21,13 @@ Začala som s tvorom - skladá sa zo základného parent hada (kruhy idúce za s
 
 
 
+
 Ďalší krok bolo nahodiť ho do nejakého prostredia. Moja vízia bola pekné miesto v strede lesa s vodopádom, kde by sa táto entita pohybovala.
 
 ![alt text](https://github.com/oliviaj123/KP4-Final-Project/blob/fbfbb5c91563fb7d40ac1775499d7de1332e0e24/Images/Waterfall.jpg)
 
 ^^ the vibe
+
 
 
 Nakoniec som pridala ovládateľnú guličku a platformy po ktorých vie skákať, a text, ktorý sa objaví keď sa gulička stretne s vodopádom a entitou.
