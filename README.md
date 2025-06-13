@@ -16,6 +16,7 @@ Začala som s tvorom - skladá sa zo základného parent hada (kruhy idúce za s
 
 
 [Prvý sketch s tvorom](https://editor.p5js.org/oliviaj/sketches/4aS4g8HL2)
+
 ![alt text](https://github.com/oliviaj123/KP4-Final-Project/blob/569e53508334fd7acab84b53345a4f3addf7ba0c/Images/Creature01.gif)
 
 
