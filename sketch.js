@@ -24,7 +24,9 @@ let creatureMessages = [
   "You like anime?"
 ];
 
-
+let introText = "LEFT ARROW, RIGHT ARROW  movement \nSPACEBAR  jumping";
+let introTextDuration = 5000;
+let introStartTime;
 
 class Orbiter {
   constructor(parentSegment) {
@@ -117,6 +119,7 @@ function setup() {
     segments.push(segment);
   }
 
+  introStartTime = millis();
 }
 
 function draw() {
@@ -398,6 +401,13 @@ function draw() {
   vertex(width*0.3, height);
   vertex(0, height);
   endShape(CLOSE);
+  
+  if (millis() - introStartTime < introTextDuration) {
+  fill(255);
+  textSize(textsize + 10);
+  textAlign(CENTER, CENTER);
+  text(introText, width / 2, height / 2);
+}
 }
 
 function keyPressed() {
