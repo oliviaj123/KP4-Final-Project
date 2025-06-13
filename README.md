@@ -4,9 +4,9 @@
 
 Najprv som chcela vytvoriť kreatúrku, ktorá by sa skladala z viacerých malých častí - niečo, čo by trošku vyzeralo ako flocking, ale nie je - hromada ryže, ktorá sa hýbe.
 
-Spirited Away
+![alt text](https://github.com/oliviaj123/KP4-Final-Project/blob/592bda1e14ebef280b8e8522749cb6be4e6f0f98/Images/spirited-away.png)
 
-Finding Nemo
+![alt text](https://github.com/oliviaj123/KP4-Final-Project/blob/592bda1e14ebef280b8e8522749cb6be4e6f0f98/Images/Nemo.jpg)
 
 ## Proces
 
