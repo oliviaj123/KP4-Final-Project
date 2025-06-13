@@ -14,7 +14,9 @@ Začala som s tvorom - skladá sa zo základného parent hada (kruhy idúce za s
 
 [Slnečná sústava kód](https://editor.p5js.org/ceaserianshiftisfun/sketches/Kzmw4jvQO)
 
-Gif z prvotného kódu.
+![alt text](https://github.com/oliviaj123/KP4-Final-Project/blob/569e53508334fd7acab84b53345a4f3addf7ba0c/Images/Creature01.gif)
+
+
 
 Ďalší krok bolo nahodiť ho do nejakého prostredia. Moja vízia bola pekné miesto v strede lesa s vodopádom, kde by sa táto entita pohybovala.
 
