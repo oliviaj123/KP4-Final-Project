@@ -12,7 +12,7 @@ Finding Nemo
 
 Začala som s tvorom - skladá sa zo základného parent hada (kruhy idúce za sebou) a orbiters priliehajúcim ku každemú parent kruhu. Ďalej mi pomohol tento kód vizualizujúci slnečnú sústavu (konkrétne Zem a mesiac) na správanie classy Orbiter. 
 
-link na kod
+[Slnečná sústava kód](https://editor.p5js.org/ceaserianshiftisfun/sketches/Kzmw4jvQO)
 
 Gif z prvotného kódu.
 
